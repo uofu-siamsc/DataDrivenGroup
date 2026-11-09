@@ -12,7 +12,13 @@
 - Learn about Data-Driven modeling from Brunton and Kutz's book [Data-Driven Science and Engineering](https://databookuw.com/)
 - See coded examples and implement them yourself!
 
-### A talk schedule along with associated code will be posted here and on our SIAM Student Chapter [webpage](math.utah.edu/siamsc)
+### Schedule
+Each session's notebooks and notes are in a folder named by its date. The talk schedule is also posted on our SIAM Student Chapter [webpage](https://www.math.utah.edu/siamsc/).
+
+| Date | Topic | Folder |
+|---|---|---|
+| 10/21/26 | Setting up Git, VS Code and Python, and a brief introduction to Python | [10_21_26](10_21_26) |
+| 11/11/26 | The SVD and PCA: compressing data and finding patterns (Chapter 1) | [11_11_26](11_11_26) |
 
 ### The book:
 
